@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Bring it on down",
+  "base_artist": "Cosmoslay",
+  "createdAt": "2026-04-01T10:56:56.211611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Bring_It_On_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Bring_It_On_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bring It On Down - Live",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Bring_It_On_Down_-_Live_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Jesus Jones",
+      "has_synced": false,
+      "path": "select/04_Bring_It_On_Down_Jesus_Jones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bring It On Down (live)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Bring_It_On_Down_(live)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bring It On Down (live)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Bring_It_On_Down_(live)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Bring_It_On_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bring It On Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Bring_It_On_Down_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bring it on down",
+      "artist": "Cosmoslay",
+      "has_synced": false,
+      "path": "select/pl_01_Bring_it_on_down_Cosmoslay.txt"
+    }
+  ]
+}
